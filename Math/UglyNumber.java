@@ -1,4 +1,4 @@
-class Solution {
+class UglyNumber {
     public boolean isUgly(int n) {
         if(n<=0){
             return false;

@@ -1,4 +1,4 @@
-class Solution {
+class ValidPerfectSquare {
     public boolean isPerfectSquare(int num) {
         // TLE Error
         // for(int i =0;i*i<=num;i++){
