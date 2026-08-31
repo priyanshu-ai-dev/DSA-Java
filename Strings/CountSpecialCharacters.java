@@ -1,5 +1,3 @@
-package Strings;
-
 public class CountSpecialCharacters {
     public int numberOfSpecialChars(String word) {
 
