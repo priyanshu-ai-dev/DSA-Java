@@ -25,5 +25,6 @@ class TriangleFlipped{
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

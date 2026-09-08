@@ -57,5 +57,6 @@ class QuadrantChecker{
             System.out.println("In 1st Quadrant");
         }
         }
+        sc.close();
     }
 }

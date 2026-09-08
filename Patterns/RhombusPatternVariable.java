@@ -21,5 +21,6 @@
             nsp--;
             System.out.println("");
         }
+        sc.close();
     }
    }

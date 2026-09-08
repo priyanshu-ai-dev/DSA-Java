@@ -17,5 +17,6 @@ class StarPlus{
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

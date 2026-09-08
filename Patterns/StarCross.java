@@ -21,5 +21,6 @@ class StarCross{
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

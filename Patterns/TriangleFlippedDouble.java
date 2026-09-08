@@ -33,5 +33,6 @@ class TriangleFlippedDouble{
             }
             System.out.println("");
         }
+        sc.close();
       }
 }

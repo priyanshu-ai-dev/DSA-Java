@@ -14,5 +14,6 @@ class TraingleFlipped{
             }
             System.out.println("");
         }
+        sc.close();
     }
 }
