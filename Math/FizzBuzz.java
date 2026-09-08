@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.ArrayList;
 
-class Solution {
+class FizzBuzz {
     public List<String> fizzBuzz(int n) {
         List<String> result = new ArrayList<>();
         for (int i = 1; i <= n; i++) {
