@@ -19,13 +19,13 @@ class SegregateZeroOne {
         System.out.println("Your input array : ");
         obj.display(arr);
         int zeros = 0;
-        int ones = 0;
+        // int ones = 0;
         for(int i = 0;i<n;i++){
             if(arr[i]==0){
                 zeros++;
             }
             else{
-                ones++;
+                // ones++;
             }
         }
         for(int i = 0;i<zeros;i++){

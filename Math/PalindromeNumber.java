@@ -12,7 +12,7 @@ public class PalindromeNumber {
 
         if (x < 0) {
             System.out.println("Not Palindrome Number");
-            return;
+            // return;
         }
 
         int rev = 0;
