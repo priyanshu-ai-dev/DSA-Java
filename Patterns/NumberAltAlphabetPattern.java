@@ -16,5 +16,6 @@ class NumberAltAlphabetPattern{
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

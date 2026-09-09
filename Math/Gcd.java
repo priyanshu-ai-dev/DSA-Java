@@ -35,5 +35,6 @@ class Gcd{
         }
         System.out.println(a);
         // System.out.println("The gcd of "+N1+" "+N2+" is "+div);
+        sc.close();
     }
 }

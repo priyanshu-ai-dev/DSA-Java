@@ -12,5 +12,6 @@ class PatternRectangle{
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

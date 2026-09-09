@@ -21,5 +21,6 @@ class AlphaTriangleFlipped {
             ext++;
             System.out.println("");
         }
+        sc.close();
     }
 }

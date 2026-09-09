@@ -36,5 +36,6 @@ class DiamondPattern{
             nst-=2;
             System.out.println("");
         }
+        sc.close();
     }
 }

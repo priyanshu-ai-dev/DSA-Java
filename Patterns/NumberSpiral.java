@@ -19,5 +19,6 @@ class NumberSpiral{
             // }
             System.out.println("");
         }
+        sc.close();
     }
 }

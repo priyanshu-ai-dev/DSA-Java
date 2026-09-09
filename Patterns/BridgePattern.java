@@ -21,5 +21,6 @@ class BridgePattern{
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

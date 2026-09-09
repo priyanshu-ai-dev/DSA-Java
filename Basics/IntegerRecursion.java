@@ -21,7 +21,7 @@ public class IntegerRecursion {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter value of N:");
         int N = sc.nextInt();
-        int V = N;
         IntegerPrint(N);
+        sc.close();
     }
 }

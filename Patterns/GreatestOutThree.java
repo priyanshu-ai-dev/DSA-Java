@@ -10,5 +10,6 @@ class GreatestOutThree{
         int c = sc.nextInt();
         System.out.print("Greatest Out Of Three: ");
         System.out.println((a>b)?((a>c)?a:c):((b>c)?b:c));
+        sc.close();
     }
 }

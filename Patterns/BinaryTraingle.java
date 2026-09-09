@@ -28,5 +28,6 @@ class BinaryTraingle{
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

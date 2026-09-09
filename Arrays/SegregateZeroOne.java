@@ -36,5 +36,6 @@ class SegregateZeroOne {
         }
         System.out.println("Now your array : ");
         obj.display(arr);
+        sc.close();
        } 
 }

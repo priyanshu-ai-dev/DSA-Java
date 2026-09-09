@@ -12,6 +12,6 @@ public class FactorialRecursion {
         int N = sc.nextInt();
         int result = FactPrint(N);
         System.out.println("Factorial: "+ result);
-    
+        sc.close();
     }
 }

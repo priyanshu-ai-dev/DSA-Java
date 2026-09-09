@@ -14,5 +14,6 @@ class OddNumberTraingle{
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

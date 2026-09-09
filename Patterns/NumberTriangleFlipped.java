@@ -18,5 +18,6 @@ class NumberTriangleFlipped{
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

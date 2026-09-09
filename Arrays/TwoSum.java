@@ -32,5 +32,6 @@ class TwoSum{
         System.out.println("Enter target sum:");
         int target = sc.nextInt();
         twoSum(nums, target);
+        sc.close();
     }
 }
